@@ -1,2 +1,7 @@
 Aditya -my commit
+<<<<<<< HEAD
 Sweta -my commit
+=======
+
+Pratyush Dubey -my commit 
+>>>>>>> f7a573d20b178de84eea5cf5a0f1498bef71c75f
