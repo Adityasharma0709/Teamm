@@ -4,4 +4,9 @@ Sweta -my commit
 =======
 
 Pratyush Dubey -my commit 
+<<<<<<< HEAD
 >>>>>>> f7a573d20b178de84eea5cf5a0f1498bef71c75f
+=======
+
+Pratyush Priyadrshi -my commit
+>>>>>>> c4be144b02a480e53ffcf22069756a137b9c0b77
